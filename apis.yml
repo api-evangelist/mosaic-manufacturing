@@ -1,8 +1,18 @@
 aid: mosaic-manufacturing
 name: Mosaic Manufacturing
-description: Mosaic Manufacturing is a company surfaced as a portfolio company of techstars and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Mosaic Manufacturing is a Toronto-based additive manufacturing company building
+  automated, high-volume FFF 3D printing systems for factory-floor production of
+  end-use polymer parts. Its flagship Array platform combines integrated robotics,
+  intelligent scheduling software, and high-performance fused-filament-fabrication
+  printers so manufacturers can cut part costs and run true production at scale.
+  Mosaic also makes the Palette line of multi-material hardware and Canvas
+  (canvas3d.io), a cloud/web software platform for file preparation, color/slice,
+  print scheduling, and fleet management. As of this enrichment pass Mosaic
+  publishes no public product API or OpenAPI-described developer surface; its
+  developer-facing presence is the open-source MosaicManufacturing GitHub
+  organization (3MF tooling, slicer post-processing, and firmware) plus a hosted
+  support/knowledge-base portal.
 url: https://raw.githubusercontent.com/api-evangelist/mosaic-manufacturing/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +20,29 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://canvas3d.io/canvas-logo-square.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- 3D Printing
+- Additive Manufacturing
+- Manufacturing
+- Hardware
+- Software
+- Robotics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +51,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://mosaicmanufacturing.com/
+  url: https://mosaicmfg.com/
+- type: Documentation
+  url: https://support.mosaicmfg.com/
+- type: Support
+  url: https://mosaicmfg.com/support/
+- type: SignUp
+  url: https://canvas3d.io/login
+- type: GitHubOrganization
+  url: https://github.com/MosaicManufacturing
+- type: TermsOfService
+  url: https://mosaicmfg.com/terms-conditions/
+- type: PrivacyPolicy
+  url: https://mosaicmfg.com/privacy-policy/
+- type: DomainSecurity
+  url: security/mosaic-manufacturing-domain-security.yml
+- type: LLMsTxt
+  url: llms/mosaic-manufacturing-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 1
+  pass: local-v1
