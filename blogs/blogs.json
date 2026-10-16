@@ -1,0 +1,21 @@
+{
+  "repo": "mosaic-manufacturing",
+  "feeds": [
+    {
+      "source": "https://mosaicmfg.com/resources/articles/",
+      "feed_url": "https://mosaicmfg.com/feed/",
+      "title": "",
+      "saved": 4,
+      "method": "discovered"
+    },
+    {
+      "source": "https://mosaicmfg.com/feed/",
+      "feed_url": "https://mosaicmfg.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 4,
+  "fetched": "2026-10-10T13:15:00Z"
+}
