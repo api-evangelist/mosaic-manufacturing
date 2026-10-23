@@ -5,7 +5,7 @@
       "source": "https://mosaicmfg.com/resources/articles/",
       "feed_url": "https://mosaicmfg.com/feed/",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "discovered"
     },
     {
@@ -16,6 +16,6 @@
       "method": "feed"
     }
   ],
-  "post_count": 4,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 10,
+  "fetched": "2026-10-17T14:53:57Z"
 }
