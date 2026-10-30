@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mosaic Manufacturing is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Mosaic Manufacturing is a Toronto-based additive manufacturing company building automated, high-volume FFF 3D printing systems for factory-floor production of end-use polymer parts. Its flagship Array platform combines integrated robotics, intelligent scheduling software, and high-performance fused-filament-fabrication printers so manufacturers can cut part costs and run true production at scale. Mosaic also makes the Palette line of multi-material hardware and Canvas (canvas3d.io), a cloud/web software platform for file preparation, color/slice, print scheduling, and fleet management. As of this enrichment pass Mosaic publishes no public product API or OpenAPI-described developer surface; its developer-facing presence is the open-source MosaicManufacturing GitHub organization (3MF tooling, slicer post-processing, and firmware) plus a hosted support/knowledge-base portal.
 
-Backed by: techstars — https://mosaicmanufacturing.com/
+**Areas:** Company · 3D Printing · Manufacturing · Hardware · Software · Robotics
+
+## Mosaic Manufacturing on APIs.io
+
+Everything profiled for Mosaic Manufacturing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mosaic-manufacturing/](https://apis.io/providers/mosaic-manufacturing/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mosaic Manufacturing Domain Security](https://apis.io/security/mosaic-manufacturing/mosaic-manufacturing-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mosaicmfg.com/)
+- [Documentation](https://support.mosaicmfg.com/)
+- [Sign up](https://canvas3d.io/login)
+- [Support](https://mosaicmfg.com/support/)
+- [Blog](https://mosaicmfg.com/resources/articles/)
+- [Terms of service](https://mosaicmfg.com/terms-conditions/)
+- [Privacy policy](https://mosaicmfg.com/privacy-policy/)
+- [GitHub](https://github.com/MosaicManufacturing)
+
+## API Evangelist rating
+
+**Kin Score 13.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mosaic-manufacturing/](https://apis.io/providers/mosaic-manufacturing/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mosaic Manufacturing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mosaic-manufacturing/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
